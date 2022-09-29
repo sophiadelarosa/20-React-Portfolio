@@ -1,13 +1,18 @@
-.header {
-    background: #f9b713;
-    height: 200px;
-  }
+header {
+  background-image: url('../../public/img/aestheticdesktopblurred.jpg');
+  height: 180px;
+  border-bottom: 10px;
+  border-color: black;
+}
   
-  .header h1 {
-    margin: 0;
-    padding-top: 75px;
-    text-align: center;
-    color: white;
-    font-size: 3rem;
-  }
+.header h1 {
+  font-family: 'Press Start 2P', cursive;
+  font-size: smaller;
+  margin: 0;
+  padding-top: 75px;
+  padding-left: 30px;
+  text-align: left;
+  color: white;
+  font-size: 2rem;
+}
   

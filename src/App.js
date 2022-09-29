@@ -5,6 +5,8 @@ import Navbar from './components/Navbar';
 import Home from './components/Home';
 import { useState } from 'react';
 import Work from './components/Work';
+import Resume from './components/Resume';
+import Contact from './components/Contact';
 
 
 function App() {
@@ -15,6 +17,8 @@ function App() {
       <Navbar setPage={setPage}/>
       { page === 'home' && <Home /> }
       { page === 'work' && <Work /> }
+      { page === 'resume' && <Resume />}
+      { page === 'Contact' && <Contact />}
     </div>
   );
 }

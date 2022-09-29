@@ -1,4 +1,5 @@
 import React from 'react';
+import '../styles/Home.css';
 
 function Home() {
     return (
@@ -6,6 +7,9 @@ function Home() {
             <div class="row align-items-start">
                 <div class="col-3">
                     <div class="title">Bio</div>
+                </div>
+                <div class="col-3 main">
+                    <img id="profilepic"/>
                 </div>
                 <div class="col-6">
                     <p> Hai! I'm Sophia. I have a Bachelor of Science in Journalism and International Relations and am currently working toward my web development certification.</p>
