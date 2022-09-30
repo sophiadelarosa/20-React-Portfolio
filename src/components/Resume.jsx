@@ -6,7 +6,7 @@ function Resume() {
         <div class="container">
             <div class="row align-items-start">
                 <div class="col-3">
-                    <div class="title"><a href="../../public/assets/SophiaDeLaRosa.pdf" download>Resume</a></div>
+                    <div class="title"><a href="./public/assets/SophiaDeLaRosa.pdf" target="_blank">Resume</a></div>
                 </div>
                 <div class="col-6 main">
 

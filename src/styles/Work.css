@@ -2,15 +2,27 @@ p {
     display: flex;
     justify-content: flex-start;
     align-items: left;
+    font-family: 'Monda', sans-serif;
+    color: #573a9c;
+    display: flex;
+    justify-content: left;
+    margin-left: 30px;
 }
 
-h1 {
+.title {
     font-family: 'Press Start 2P', cursive;
-    font-size: large;
+    font-size: x-large;
+    display: flex;
+    justify-content: flex-start;
+    margin-bottom: 30px;
+  }
+
+h2 {
+    font-family: 'Monda', sans-serif;
+    font-size: x-large;
     display: flex;
     justify-content: flex-start;
     margin-left: 30px;
-    margin-bottom: 30px;
 }
 
 #project1 {
@@ -35,3 +47,68 @@ h1 {
     margin-left: 30px;
 }
 
+#pwatexteditor {
+    background-image: url('../../public/img/pwatexteditor.png');
+    background-size: cover;
+    height: 250px;
+    width: 500px;
+    display: flex;
+    justify-content: flex-start;
+    align-items: left;
+    margin-left: 30px;
+}
+
+#expressnotetaker {
+    background-image: url('../../public/img/expressnotetaker.png');
+    background-size: cover;
+    height: 250px;
+    width: 500px;
+    display: flex;
+    justify-content: flex-start;
+    align-items: left;
+    margin-left: 30px;
+}
+
+#teamprofile {
+    background-image: url('../../public/img/teamprofile.png');
+    background-size: cover;
+    height: 250px;
+    width: 500px;
+    display: flex;
+    justify-content: flex-start;
+    align-items: left;
+    margin-left: 30px;
+}
+
+#dayplanner {
+    background-image: url('../../public/img/dayplanner.png');
+    background-size: cover;
+    height: 250px;
+    width: 500px;
+    display: flex;
+    justify-content: flex-start;
+    align-items: left;
+    margin-left: 30px;
+}
+
+#codequiz {
+    background-image: url('../../public/img//codequiz.png');
+    background-size: cover;
+    height: 250px;
+    width: 500px;
+    display: flex;
+    justify-content: flex-start;
+    align-items: left;
+    margin-left: 30px;
+}
+
+#passwordgenerator {
+    background-image: url('../../public/img/passwordgenerator.png');
+    background-size: cover;
+    height: 250px;
+    width: 500px;
+    display: flex;
+    justify-content: flex-start;
+    align-items: left;
+    margin-left: 30px;
+}

@@ -1,5 +1,5 @@
 import React from 'react';
-//import '../styles/Contact.css';
+import '../styles/Contact.css';
 
 function Contact() {
     return (
@@ -12,6 +12,9 @@ function Contact() {
                     <a href="https://github.com/sophiadelarosa"><p>GitHub</p></a>
                     <p>404-862-1307</p>
                     <p>Sophia.DeLaRosa@warnermedia.com</p>
+                </div>
+                <div>
+                    
                 </div>
             </div>
         </div>

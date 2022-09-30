@@ -7,6 +7,7 @@ import { useState } from 'react';
 import Work from './components/Work';
 import Resume from './components/Resume';
 import Contact from './components/Contact';
+import Footer from './components/Footer';
 
 
 function App() {
@@ -19,8 +20,11 @@ function App() {
       { page === 'work' && <Work /> }
       { page === 'resume' && <Resume />}
       { page === 'Contact' && <Contact />}
+      <Footer />
     </div>
   );
 }
+
+
 
 export default App;

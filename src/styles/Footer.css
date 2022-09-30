@@ -1,0 +1,6 @@
+footer {
+    font-size: xx-large;
+    display: flex;
+    flex-direction: row;
+    justify-content:space-evenly;
+}
