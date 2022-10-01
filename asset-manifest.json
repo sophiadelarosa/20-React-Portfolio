@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/20-React-Portfolio/static/css/main.7cd588b4.css",
+    "main.js": "/20-React-Portfolio/static/js/main.a8d52c1b.js",
+    "static/js/787.128fc6e9.chunk.js": "/20-React-Portfolio/static/js/787.128fc6e9.chunk.js",
+    "static/media/D&D.png": "/20-React-Portfolio/static/media/D&D.d24361ff33566dfd9bb3.png",
+    "static/media/codequiz.png": "/20-React-Portfolio/static/media/codequiz.6e1d393f87d325b46359.png",
+    "static/media/teamprofile.png": "/20-React-Portfolio/static/media/teamprofile.42cf63c9ea8af5127768.png",
+    "static/media/passwordgenerator.png": "/20-React-Portfolio/static/media/passwordgenerator.e7392521e0c544615678.png",
+    "static/media/expressnotetaker.png": "/20-React-Portfolio/static/media/expressnotetaker.8c528c15b1edcfcb7d25.png",
+    "static/media/cloudy.png": "/20-React-Portfolio/static/media/cloudy.2315d1299974c187d4b4.png",
+    "static/media/dayplanner.png": "/20-React-Portfolio/static/media/dayplanner.fc951764bf72e1762b54.png",
+    "static/media/aestheticdesktopblurred.jpg": "/20-React-Portfolio/static/media/aestheticdesktopblurred.3fe6b6123e8240d6cdbc.jpg",
+    "static/media/imda.png": "/20-React-Portfolio/static/media/imda.1547389edebd7e01a829.png",
+    "static/media/profilepic.png": "/20-React-Portfolio/static/media/profilepic.4aee37181ee5f2461e9f.png",
+    "static/media/pwatexteditor.png": "/20-React-Portfolio/static/media/pwatexteditor.44f1e81301b118481846.png",
+    "static/media/logo.svg": "/20-React-Portfolio/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/20-React-Portfolio/index.html",
+    "main.7cd588b4.css.map": "/20-React-Portfolio/static/css/main.7cd588b4.css.map",
+    "main.a8d52c1b.js.map": "/20-React-Portfolio/static/js/main.a8d52c1b.js.map",
+    "787.128fc6e9.chunk.js.map": "/20-React-Portfolio/static/js/787.128fc6e9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7cd588b4.css",
+    "static/js/main.a8d52c1b.js"
+  ]
+}
