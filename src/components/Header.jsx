@@ -4,7 +4,7 @@ import '../styles/Header.css';
 
 function Header() {
   return (
-    <header className="header">
+    <header class="header">
       <h1>Sophia De La Rosa</h1>
     </header>
   );

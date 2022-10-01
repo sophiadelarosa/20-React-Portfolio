@@ -4,13 +4,12 @@ nav {
     padding-right: 15px;
     padding-bottom: 50px;
     border-bottom: 5px;
-    border-color: purple;
 }
 
 button {
     font-family: 'Monda', sans-serif;
     background-color: white;
-    color: black;
+    background-color: #448998;
     border: 2px solid #4CAF50;
     transition-duration: 0.4s;
     margin-right: 10px;
@@ -18,7 +17,6 @@ button {
 }
 
 button:hover {
-    background-color: #4CAF50; /* Green */
-    color: white;
-    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+    background-color: white; /* Green */
+    color: #448998;
 }

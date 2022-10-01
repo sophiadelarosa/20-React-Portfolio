@@ -1,6 +1,7 @@
 .title {
   font-family: 'Press Start 2P', cursive;
   font-size: large;
+  
   display: flex;
   justify-content: flex-start;
   margin-left: 30px;
@@ -20,7 +21,7 @@
 
 p {
   font-family: 'Monda', sans-serif;
-  color: #573a9c;
+  color: #000000;
   display: flex;
   justify-content: left;
   margin-left: 20px;
