@@ -1,12 +1,14 @@
 import React from 'react';
 import '../styles/Resume.css';
+import resume from "../assets/SophiaDeLaRosaResume.pdf";
 
 function Resume() {
     return (
         <div class="container">
             <div class="row align-items-start">
                 <div class="col-3">
-                    <div class="title"><a href="./public/assets/SophiaDeLaRosa.pdf" target="_blank">Resume</a></div>
+                    <div class="title"><a href="src\assets\SophiaDeLaRosaResume.pdf" target="_blank">Resume</a></div>
+                    <div><a href={resume}>Please download my CV here</a></div>
                 </div>
                 <div class="col-6 main">
 
