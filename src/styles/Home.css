@@ -8,9 +8,14 @@
   margin-bottom: 30px;
 }
 
-.column {
+.columnleft {
   float: left;
-  width: 50%;
+  width: 25%;
+}
+
+.columnright {
+  float: left;
+  width: 75%;
 }
 
 .row:after {
