@@ -26,7 +26,7 @@ h2 {
 
 .columnleft {
     float: left;
-    width: 30%;
+    width: 50%;
 }
 
 .columnleft:before {
@@ -35,7 +35,7 @@ h2 {
 
 .columnright {
     float: left;
-    width: 70%;
+    width: 50%;
 }
 
 .columnright:before {
