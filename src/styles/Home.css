@@ -12,17 +12,21 @@
   width: 30%;
 }
 
+.columnleft:before {
+  margin: 10px;
+}
+
 .columnright {
   float: left;
   width: 70%;
 }
 
-.columnleft:before {
+.columnright:before {
   margin: 10px;
 }
 
-.columnright:before {
-  margin: 10px;
+.columnright:after {
+  margin: 15px;
 }
 
 .row:before {
