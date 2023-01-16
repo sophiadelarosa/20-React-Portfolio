@@ -2,7 +2,6 @@ footer {
     font-size: xx-large;
     display: flex;
     flex-direction: row;
-    justify-content:space-evenly;
-    position: relative;
-    bottom: 0;
+    justify-content:space-between;
+    vertical-align: bottom;
 }
