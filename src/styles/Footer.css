@@ -4,6 +4,6 @@ footer {
     flex-direction: row;
     justify-content:space-evenly;
     position: relative;
-    bottom: -10em;
+    bottom: 0em;
     /* vertical-align: bottom; */
 }
