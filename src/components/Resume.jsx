@@ -19,7 +19,7 @@ function Resume() {
                     <div class="rightcolumn">
                         <p>-- 02/2019 to present --</p>
                     </div>
-                    <p class="description">Production assistant and news editor </p>
+                    <p>Production assistant and news editor </p>
                 </div>
                 
 
