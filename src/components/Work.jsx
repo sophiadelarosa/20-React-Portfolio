@@ -12,10 +12,10 @@ function Work() {
             <a href="https://pwa-text-editor-19.herokuapp.com/" target="_blank"><h2> PWA Text Editor </h2></a>
             <a href="https://github.com/sophiadelarosa/19-PWA-text-editor" target="_blank"><p> See the repository </p></a>
             <div class="row">
-                <div class="columnleft">
+                <div class="leftcolumn">
                     <img id="pwatexteditor" height="250px" width="500px"/>
                 </div>
-                <div class="columnright">
+                <div class="rightcolumn">
                     <p> This is a single page text editor application that runs in the browser and meets the PWA criteria. It features data persistence techniques that serve as redundancy in case one of the options is not supported by the browser. The application also functions offline.</p>
                 </div>
             </div>
