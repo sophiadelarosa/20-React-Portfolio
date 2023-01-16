@@ -25,7 +25,7 @@
 
 #profilepic {
     background-image: url('../../public/img/profilepic.png');
-    background-size: cover;
+    /* background-size: cover; */
     width: 90%;
     height: auto;
     /* min-height: 250px;
