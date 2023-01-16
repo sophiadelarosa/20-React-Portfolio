@@ -7,9 +7,14 @@
   margin-bottom: 30px;
 }
 
-.column {
+.columnleft {
   float: left;
-  width: 50%;
+  width: 30%;
+}
+
+.columnright {
+  float: left;
+  width: 70%;
 }
 
 .row:after {
@@ -21,11 +26,13 @@
 #profilepic {
     background-image: url('../../public/img/profilepic.png');
     background-size: cover;
-    min-height: 250px;
-    min-width: 250px;
-    display: flex;
+    width: 100%;
+    height: auto;
+    /* min-height: 250px;
+    min-width: 250px; */
+    /* display: flex;
     justify-content: flex-start;
-    align-items: left;
+    align-items: left; */
     margin-left: 30px;
   }
 
