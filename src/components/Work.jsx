@@ -9,7 +9,7 @@ function Work() {
             </div>
 
 
-            <a href="https://pwa-text-editor-19.herokuapp.com/" target="_blank"><h2> PWA Text Editor </h2></a>
+            <a href="https://pwa-text-editor-19.herokuapp.com/" target="_blank"><h2> Progressive Web Applications: Text Editor </h2></a>
             <div class="row">
                 <div class="leftcolumn">
                     <img id="pwatexteditor" height="250px" width="500px" />
@@ -20,7 +20,7 @@ function Work() {
                 </div>
             </div>
             
-            <a href="https://www.dropbox.com/s/ubuezk0sg6hi4xt/18-No-SQL-API.mp4?dl=0" target="_blank"><h2> NoSQL Social Network API </h2></a>
+            <a href="https://www.dropbox.com/s/ubuezk0sg6hi4xt/18-No-SQL-API.mp4?dl=0" target="_blank"><h2> NoSQL: Social Network API </h2></a>
             <p> This is an API for a social network web application where users can share their thoughts, react to friends thoughts, and create a friend list. It uses Express.js for routing, a MongoDB database, the Mongoose ODM, and the native JavaScript Date object to format timestamps.</p>
             <a href="https://github.com/sophiadelarosa/18-NoSQL-Social-Network-API" target="_blank"><p> See the repository </p></a>
 
@@ -65,7 +65,7 @@ function Work() {
                 </div>
             </div>
             
-            <a href="https://sophiadelarosa.github.io/group-project/" target="_blank"><h2> MUSIC DISCOVERY APP </h2></a>
+            <a href="https://sophiadelarosa.github.io/group-project/" target="_blank"><h2> Music Discovery App </h2></a>
             <div class="row">
                 <div class="leftcolumn">
                     <img id="project1" height="250px" width="500px"/>
@@ -100,7 +100,7 @@ function Work() {
             </div>
             
 
-            <h2> JS Password Generator </h2>
+            <h2> JavaScript Password Generator </h2>
             <div class="row">
                 <div class="leftcolumn">
                     <img id="passwordgenerator" height="250px" width="500px"/>
