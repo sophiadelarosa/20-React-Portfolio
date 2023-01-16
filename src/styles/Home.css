@@ -17,6 +17,14 @@
   width: 70%;
 }
 
+.columnleft:before {
+  margin: 15px;
+}
+
+.columnright:before {
+  margin: 15px;
+}
+
 .row:after {
   content: "";
   display: table;

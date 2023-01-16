@@ -7,7 +7,7 @@ function Home() {
             <div class="title">Bio</div>
             <div class="row">
                 <div class="columnleft">
-                    <img id="profilepic" /> 
+                    <img id="profilepic" height="250px" width="250px"/> 
                 </div>
                 <div class="columnright">
                     <p> Hai! I'm Sophia. I have a Bachelor of Science in Journalism and International Relations and am currently working toward my web development certification.</p>
