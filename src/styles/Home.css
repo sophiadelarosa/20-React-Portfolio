@@ -27,8 +27,9 @@
 #profilepic {
     background-image: url('../../public/img/profilepic.png');
     background-size: cover;
-    height: 250px;
-    width: 250px;
+    /* height: 250px;
+    width: 250px; */
+    width: 100%;
     display: flex;
     justify-content: flex-start;
     align-items: left;
