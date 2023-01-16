@@ -33,7 +33,7 @@
 
 #profilepic {
     background-image: url('../../public/img/profilepic.png');
-    /* background-size: cover; */
+    background-size: cover;
     width: 90%;
     height: auto;
     /* min-height: 250px;
@@ -41,7 +41,7 @@
     /* display: flex;
     justify-content: flex-start;
     align-items: left; */
-    /* margin-left: 30px; */
+    margin-left: 30px;
   }
 
 p {
