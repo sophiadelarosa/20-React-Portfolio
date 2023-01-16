@@ -25,3 +25,19 @@ h3 {
     justify-content: flex-start;
     margin-left: 30px;
 }
+
+.leftcolumn {
+    float: left;
+    width: 50%;
+}
+
+.rightcolumn {
+    float: left;
+    width: 50%;
+}
+
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
+}

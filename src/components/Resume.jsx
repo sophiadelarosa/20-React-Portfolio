@@ -18,10 +18,9 @@ function Resume() {
                     </div>
                     <div class="rightcolumn">
                         <p>-- 02/2019 to present --</p>
-                    </div>
-                    <p>Production assistant and news editor </p>
+                    </div>  
                 </div>
-                
+                <p>Production assistant and news editor </p>
 
                 <h3>KVUE News ABC, Austin</h3>
                 <p class="description">Lead news editor, daybreak and nightbeat newscasts -- 02/2018 to 04/2019</p>
