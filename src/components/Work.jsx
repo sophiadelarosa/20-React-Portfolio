@@ -31,7 +31,7 @@ function Work() {
             <a href="https://dungeons-devs.herokuapp.com/" target="_blank"><h2> Dungeons & Devs </h2></a>
             <div class="row">
                 <div class="leftcolumn">
-                    <img id="project2" />
+                    <img id="project2" height="250px" width="500px"/>
                 </div>
                 <div class="rightcolumn">
                     <p> Dungeons & Devs is a turn-based battle game. The user chooses from a character list, each with different strengths, and battles a boss using cards that boost various character stats.</p>
@@ -46,7 +46,7 @@ function Work() {
             <h2> Express.js Note Taker </h2>
             <div class="row">
                 <div class="leftcolumn">
-                    <img id="expressnotetaker" />
+                    <img id="expressnotetaker" height="250px" width="500px"/>
                 </div>
                 <div class="right column">
                     <p> This Note Taker application can be used to write and save notes using an Express.js back end and will save and retrieve note data from a JSON file. Clone the repository and install Node. Run "npm i" to install the dependencies and then "npm start" to run the server. This server runs on port 5000. View the page by typing "localhost:5000" in your browser. </p>
@@ -57,7 +57,7 @@ function Work() {
             <a href="https://www.dropbox.com/s/hcjlbvinlwxzm49/teamprofilegeneratordemo.mp4?dl=0" target="_blank"><h2> Object-Oriented Programming: Team Profile Generator </h2></a>
             <div class="row">
                 <div class="leftcolumn">
-                    <img id="teamprofile" />
+                    <img id="teamprofile" height="250px" width="500px"/>
                 </div>
                 <div class="rightcolumn">
                     <p> This is a Node.js command-line application that takes in information about employees on a software engineering team, then generates an HTML webpage that displays summaries for each person. This application uses Jest for testing.</p>
@@ -68,7 +68,7 @@ function Work() {
             <a href="https://sophiadelarosa.github.io/group-project/" target="_blank"><h2> MUSIC DISCOVERY APP </h2></a>
             <div class="row">
                 <div class="leftcolumn">
-                    <img id="project1" />
+                    <img id="project1" height="250px" width="500px"/>
                 </div>
                 <div class="rightcolumn">
                     <p> IMDA is an international music discovery app. It utilizes Spotify's API to search for songs by country and genre, which the user is then able to favorite and view in their favorites list on their profile page.</p>
@@ -79,7 +79,7 @@ function Work() {
             <a href="https://sophiadelarosa.github.io/05-Workday-Scheduler/" target="_blank"><h2> Day Planner using third-party APIs </h2></a>
             <div class="row">
                 <div class="leftcolumn">
-                    <img id="dayplanner" />
+                    <img id="dayplanner" height="250px" width="500px"/>
                 </div>
                 <div class="rightcolumn">
                     <p> Use this simple planner to schedule your day by filling in tasks into the hour timeblocks. The date is listed at the top of the page and will always be correct. Hitting the save button after writing in the textbox will save your input, even on refreshing the page. Hour blocks are color coded based on the current time, which updates every 15 seconds. Past timeblocks have a gray tab, future timeblocks are tabbed in green and the current timeblock is highlighted in yellow.</p>
@@ -91,7 +91,7 @@ function Work() {
             <a href="https://sophiadelarosa.github.io/04-Code-Quiz/" target="_blank"><h2> Web API Code Quiz </h2></a>
             <div class="row">
                 <div class="leftcolumn">
-                    <img id="codequiz" />
+                    <img id="codequiz" height="250px" width="500px"/>
                 </div>
                 <div class="rightcolumn">
                     <p> This is a single page text editor application that runs in the browser and meets the PWA criteria. It features data persistence techniques that serve as redundancy in case one of the options is not supported by the browser. The application also functions offline.</p>
@@ -103,7 +103,7 @@ function Work() {
             <h2> JS Password Generator </h2>
             <div class="row">
                 <div class="leftcolumn">
-                    <img id="passwordgenerator" />
+                    <img id="passwordgenerator" height="250px" width="500px"/>
                 </div>
                 <div class="rightcolumn">
                     <p> This generator uses a function to generate a random number which is used to select characters in dataset strings. Each dataset string is only included if the user confirms the criteria. The new randomized password is then returned to the textbox on the page.</p>
