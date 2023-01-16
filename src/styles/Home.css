@@ -8,6 +8,17 @@
   margin-bottom: 30px;
 }
 
+.column {
+  float: left;
+  width: 50%;
+}
+
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
 #profilepic {
     background-image: url('../../public/img/profilepic.png');
     background-size: cover;
