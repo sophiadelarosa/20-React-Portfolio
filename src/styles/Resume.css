@@ -1,11 +1,9 @@
 .description {
-    display: flex;
-    justify-content: flex-start;
-    align-items: left;
+    /* display: flex;
+    justify-content: left;
+    align-items: left; */
     font-family: 'Monda', sans-serif;
     color: #573a9c;
-    display: flex;
-    justify-content: left;
     margin-left: 30px;
     margin-top: -10px;
 }
