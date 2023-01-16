@@ -11,8 +11,15 @@ function Work() {
 
             <a href="https://pwa-text-editor-19.herokuapp.com/" target="_blank"><h2> PWA Text Editor </h2></a>
             <a href="https://github.com/sophiadelarosa/19-PWA-text-editor" target="_blank"><p> See the repository </p></a>
-            <img id="pwatexteditor" />
-            <p> This is a single page text editor application that runs in the browser and meets the PWA criteria. It features data persistence techniques that serve as redundancy in case one of the options is not supported by the browser. The application also functions offline.</p>
+            <div id="row">
+                <div id="columnleft">
+                    <img id="pwatexteditor" />
+                </div>
+                <div id="columnright">
+                    <p> This is a single page text editor application that runs in the browser and meets the PWA criteria. It features data persistence techniques that serve as redundancy in case one of the options is not supported by the browser. The application also functions offline.</p>
+                </div>
+            </div>
+            
 
             <a href="https://www.dropbox.com/s/ubuezk0sg6hi4xt/18-No-SQL-API.mp4?dl=0" target="_blank"><h2> NoSQL Social Network API </h2></a>
             <a href="https://github.com/sophiadelarosa/18-NoSQL-Social-Network-API" target="_blank"><p> See the repository </p></a>
