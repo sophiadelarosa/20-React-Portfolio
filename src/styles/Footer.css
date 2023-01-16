@@ -3,5 +3,5 @@ footer {
     display: flex;
     flex-direction: row;
     justify-content:space-evenly;
-    bottom: 10cm;
+    bottom: 10rem;
 }
