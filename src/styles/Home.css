@@ -18,10 +18,14 @@
 }
 
 .columnleft:before {
-  margin: 15px;
+  margin: 10px;
 }
 
 .columnright:before {
+  margin: 10px;
+}
+
+.row:before {
   margin: 15px;
 }
 
@@ -36,11 +40,7 @@
     background-size: cover;
     width: 90%;
     height: auto;
-    /* min-height: 250px;
-    min-width: 250px; */
-    /* display: flex;
-    justify-content: flex-start;
-    align-items: left; */
+    max-width: 500px;
     margin-left: 30px;
   }
 
