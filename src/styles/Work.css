@@ -59,22 +59,18 @@ h2 {
 #project1 {
     background-image: url('../../public/img/imda.png');
     background-size: cover;
-    height: 250px;
-    width: 500px;
-    display: flex;
-    justify-content: flex-start;
-    align-items: left;
+    width: 90%;
+    height: auto;
+    max-width: 700px;
     margin-left: 30px;
 }
 
 #project2 {
     background-image: url('../../public/img/D&D.png');
     background-size: cover;
-    height: 250px;
-    width: 500px;
-    display: flex;
-    justify-content: flex-start;
-    align-items: left;
+    width: 90%;
+    height: auto;
+    max-width: 700px;
     margin-left: 30px;
 }
 
@@ -84,65 +80,50 @@ h2 {
     width: 90%;
     height: auto;
     max-width: 700px;
-    /* height: 250px;
-    width: 500px; */
-    /* display: flex;
-    justify-content: flex-start;
-    align-items: left; */
     margin-left: 30px;
 }
 
 #expressnotetaker {
     background-image: url('../../public/img/expressnotetaker.png');
     background-size: cover;
-    height: 250px;
-    width: 500px;
-    display: flex;
-    justify-content: flex-start;
-    align-items: left;
+    width: 90%;
+    height: auto;
+    max-width: 700px;
     margin-left: 30px;
 }
 
 #teamprofile {
     background-image: url('../../public/img/teamprofile.png');
     background-size: cover;
-    height: 250px;
-    width: 500px;
-    display: flex;
-    justify-content: flex-start;
-    align-items: left;
+    width: 90%;
+    height: auto;
+    max-width: 700px;
     margin-left: 30px;
 }
 
 #dayplanner {
     background-image: url('../../public/img/dayplanner.png');
     background-size: cover;
-    height: 250px;
-    width: 500px;
-    display: flex;
-    justify-content: flex-start;
-    align-items: left;
+    width: 90%;
+    height: auto;
+    max-width: 700px;
     margin-left: 30px;
 }
 
 #codequiz {
     background-image: url('../../public/img//codequiz.png');
     background-size: cover;
-    height: 250px;
-    width: 500px;
-    display: flex;
-    justify-content: flex-start;
-    align-items: left;
+    width: 90%;
+    height: auto;
+    max-width: 700px;
     margin-left: 30px;
 }
 
 #passwordgenerator {
     background-image: url('../../public/img/passwordgenerator.png');
     background-size: cover;
-    height: 250px;
-    width: 500px;
-    display: flex;
-    justify-content: flex-start;
-    align-items: left;
+    width: 90%;
+    height: auto;
+    max-width: 700px;
     margin-left: 30px;
 }
