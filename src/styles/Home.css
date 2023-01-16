@@ -16,7 +16,6 @@
 .columnright {
   float: right;
   width: 75%;
-  margin-right: 10px;
 }
 
 .row:after {
@@ -28,8 +27,12 @@
 #profilepic {
     background-image: url('../../public/img/profilepic.png');
     background-size: cover;
-    min-height: 250px;
+    width: 100%;
     min-width: 250px;
+    max-width: 550px;
+    height: auto;
+    /* min-height: 250px;
+    min-width: 250px; */
     display: flex;
     justify-content: flex-start;
     align-items: left;
