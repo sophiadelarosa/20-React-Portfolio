@@ -8,7 +8,7 @@ function Resume() {
         <div>
             <div>
                 <div class="title">Resume</div>
-                <div><a href={resume}>Download my resume here.</a></div>
+                <div id="resume"><a href={resume}>Download my resume here.</a></div>
             </div>
             <div>
                 <h1>EXPERIENCE</h1>
@@ -90,27 +90,27 @@ function Resume() {
     
     
                 <h1>TECHNICAL SKILLS</h1>
-                <p class="description">Georgia Tech certified full stack web developer</p>
-                <p class="description">Technologies: HTML, CSS, JavaScript, Bootstrap</p>
-                <p class="description">Adobe Suite: Premiere Pro, Photoshop, Illustrator</p>
-                <p class="description">iNews, NewsApps</p>
-                <p class="description">Special interests: international relations, astrophysics</p>
-                <p class="description">PC building</p>
-                <p class="description">Photography</p>
-                <p class="description">PADI certified scuba diver</p>
-                <p class="description">Archery</p>
-                <p class="description">1st place in Mixed Media -- Advanced Studio Art piece</p>
-                <p class="description">1st Place Women's 13.5 meter competition -- Archery</p>
-                <p class="description">Distinguished Student Award -- Fine Arts</p>
-
-                <div class="row">
-                    <div class="leftcolumn">
-                    </div>
-                    <div class="rightcolumn">
-                    </div>
-                </div>
+                <p>&#x2022; Georgia Tech certified full stack web developer</p>
+                <p>&#x2022; Bachelor of Science: Journalism</p>
+                <p>&#x2022; Adobe Suite</p>
+                <p>&#x2022; iNews, NewsApps</p>
+                <p>&#x2022; PC building</p>
+                <p>&#x2022; Detail oriented problem solving and debugging</p>
+                <p>&#x2022; Communication and leadership</p>
 
                 <h1>REFERENCES</h1>
+                <h3>Please download my CV above or contact me for a list of references</h3>
+
+                <h1>SPECIAL INTERESTS</h1>
+                <p>Gaming</p>
+                <p>Twitch streaming</p>
+                <p>Blender and Unity video game asset modeling</p>
+                <p>Astrophysics</p>
+                <p>PADI certified scuba diver</p>
+                <p>1st Place Women's 13.5 meter competition -- Archery</p>
+                <p>1st place in Mixed Media -- Advanced Studio Art</p>
+                <p>Distinguished Student Award -- Fine Arts</p>
+                <p>Photography</p>
                 
             </div>
         </div>
