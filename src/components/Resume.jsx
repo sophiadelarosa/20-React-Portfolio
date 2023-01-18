@@ -12,17 +12,7 @@ function Resume() {
             </div>
             <div>
                 <h1>EXPERIENCE</h1>
-                <div class="row">
-                    <div class="leftcolumn">
-                        <h3>CNN Atlanta</h3>
-                        <p><strong>Production assistant and news editor</strong></p>
-                        <p>Edited and distributed news video to CNN affiliates using Premiere Pro. </p>
-                    </div>
-                    <div class="rightcolumn">
-                        <p>-- 04/2019 to present --</p>
-                    </div>  
-                </div>
-                
+
                 <div class="row">
                     <div class="leftcolumn">
                         <h3>Remote Workforce Strategy Team</h3>
@@ -36,8 +26,19 @@ function Resume() {
 
                 <div class="row">
                     <div class="leftcolumn">
+                        <h3>CNN Atlanta</h3>
+                        <p><strong>Production assistant and news editor</strong></p>
+                        <p>Editing and distributing news video to CNN affiliates using Premiere Pro. </p>
+                    </div>
+                    <div class="rightcolumn">
+                        <p>-- 04/2019 to present --</p>
+                    </div>  
+                </div>
+
+                <div class="row">
+                    <div class="leftcolumn">
                     <h3>KVUE News ABC, Austin</h3>
-                    <p><strong>Lead news editor</strong> - Nightbeat newscast</p>
+                    <p><strong>Lead news editor </strong> - Nightbeat newscast</p>
                     </div>
                     <div class="rightcolumn">
                         <p>-- 02/2018 to 04/2019 --</p>
@@ -47,7 +48,7 @@ function Resume() {
                 <div class="row">
                     <div class="leftcolumn">
                     <h3>CNN Atlanta</h3>
-                    <p><strong>Intern</strong>- Southeast Regional Bureau</p>
+                    <p><strong>Intern </strong>- Southeast Regional Bureau</p>
                     </div>
                     <div class="rightcolumn">
                         <p>-- 06/2017 to 07/2017 --</p>
@@ -99,18 +100,18 @@ function Resume() {
                 <p>&#x2022; Communication and leadership</p>
 
                 <h1>REFERENCES</h1>
-                <h3>Please download my CV above or contact me for a list of references</h3>
+                <p><strong>Please download my CV above or contact me for a list of references</strong></p>
 
                 <h1>SPECIAL INTERESTS</h1>
-                <p>Gaming</p>
-                <p>Twitch streaming</p>
-                <p>Blender and Unity video game asset modeling</p>
-                <p>Astrophysics</p>
-                <p>PADI certified scuba diver</p>
-                <p>1st Place Women's 13.5 meter competition -- Archery</p>
-                <p>1st place in Mixed Media -- Advanced Studio Art</p>
-                <p>Distinguished Student Award -- Fine Arts</p>
-                <p>Photography</p>
+                <p>&#x2022; Gaming</p>
+                <p>&#x2022; Twitch streaming</p>
+                <p>&#x2022; Blender and Unity video game asset modeling</p>
+                <p>&#x2022; Astrophysics</p>
+                <p>&#x2022; PADI certified scuba diver</p>
+                <p>&#x2022; 1st Place Women's 13.5 meter competition -- Archery</p>
+                <p>&#x2022; 1st place in Mixed Media -- Advanced Studio Art</p>
+                <p>&#x2022; Distinguished Student Award -- Fine Arts</p>
+                <p>&#x2022; Photography</p>
                 
             </div>
         </div>
