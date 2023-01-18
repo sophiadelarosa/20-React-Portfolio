@@ -5,7 +5,6 @@
     font-family: 'Monda', sans-serif;
     color: #573a9c;
     margin-left: 30px;
-    margin-top: -20px;
 }
 
 h1 {
@@ -40,5 +39,4 @@ h3 {
     content: "";
     display: table;
     clear: both;
-    margin: 0px;
 }

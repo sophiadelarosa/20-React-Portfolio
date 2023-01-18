@@ -15,14 +15,14 @@ function Resume() {
                 <div class="row">
                     <div class="leftcolumn">
                         <h3>CNN Atlanta</h3>
+                        <p>Production assistant and news editor </p>
+                        <p>Edited and distributed news video to CNN affiliates using Premiere Pro. </p>
                     </div>
                     <div class="rightcolumn">
                         <p>-- 04/2019 to present --</p>
                     </div>  
                 </div>
-                <p>Production assistant and news editor </p>
-                <p>Edited and distributed news video to CNN affiliates using Premiere Pro. </p>
-
+                
                 <h3>KVUE News ABC, Austin</h3>
                 <p class="description">Lead news editor, daybreak and nightbeat newscasts -- 02/2018 to 04/2019</p>
 
