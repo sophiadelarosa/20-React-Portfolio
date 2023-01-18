@@ -15,7 +15,7 @@ function Resume() {
                 <div class="row">
                     <div class="leftcolumn">
                         <h3>CNN Atlanta</h3>
-                        <p>Production assistant and news editor </p>
+                        <p><strong>Production assistant and news editor</strong></p>
                         <p>Edited and distributed news video to CNN affiliates using Premiere Pro. </p>
                     </div>
                     <div class="rightcolumn">
@@ -23,14 +23,48 @@ function Resume() {
                     </div>  
                 </div>
                 
-                <h3>KVUE News ABC, Austin</h3>
-                <p class="description">Lead news editor, daybreak and nightbeat newscasts -- 02/2018 to 04/2019</p>
+                <div class="row">
+                    <div class="leftcolumn">
+                        <h3>Remote Workforce Strategy Team</h3>
+                        <p><strong>Technology Team Lead</strong></p>
+                        <p>Connected with multiple CNN bureaus to discuss technological needs to sustain a continued hybrid work model. Established a technology knowledge datgabase to streamline training and 3ease transitions to new technologies.</p>
+                    </div>
+                    <div class="rightcolumn">
+                        <p>-- 01/2021 to 10/2021 --</p>
+                    </div>
+                </div>
 
-                <h3>CNN Atlanta</h3>
-                <p class="description">Intern, Southeast Regional Bureau 06/2017 to 07/2017</p>
+                <div class="row">
+                    <div class="leftcolumn">
+                    <h3>KVUE News ABC, Austin</h3>
+                    <p><strong>Lead news editor</strong></p>
+                    <p>Nightbeat newscast</p>
+                    </div>
+                    <div class="rightcolumn">
+                        <p>-- 02/2018 to 04/2019 --</p>
+                    </div>
+                </div>
 
-                <h3>University Star, university newspaper</h3>
-                <p class="description">Photographer</p>
+                <div class="row">
+                    <div class="leftcolumn">
+                    <h3>CNN Atlanta</h3>
+                    <p><strong>Intern</strong></p>
+                    <p>Southeast Regional Bureau</p>
+                    </div>
+                    <div class="rightcolumn">
+                        <p>-- 06/2017 to 07/2017 --</p>
+                    </div>
+                </div>
+
+                <div class="row">
+                    <div class="leftcolumn">
+                        <h3>University Star, university newspaper</h3>
+                        <p><strong>Photographer</strong></p>
+                    </div>
+                    <div class="rightcolumn">
+                        <p>-- 01/2016 to 05/2016</p>
+                    </div>
+                </div>
 
                 <h1>EDUCATION</h1>
                 <h3>Texas State University</h3>
@@ -43,6 +77,13 @@ function Resume() {
                 <p class="description">National Honor Society</p>
                 <p class="description">Yearbook staff Lead Photo Editor and Head Photojournalist</p>
                 <p class="description">AP classes: English, Studio Art</p>
+
+                <div class="row">
+                    <div class="leftcolumn">
+                    </div>
+                    <div class="rightcolumn">
+                    </div>
+                </div>
 
                 <h1>TECHNICAL SKILLS</h1>
                 <p class="description">Georgia Tech certified full stack web developer</p>
@@ -57,6 +98,13 @@ function Resume() {
                 <p class="description">1st place in Mixed Media -- Advanced Studio Art piece</p>
                 <p class="description">1st Place Women's 13.5 meter competition -- Archery</p>
                 <p class="description">Distinguished Student Award -- Fine Arts</p>
+
+                <div class="row">
+                    <div class="leftcolumn">
+                    </div>
+                    <div class="rightcolumn">
+                    </div>
+                </div>
 
                 <h1>REFERENCES</h1>
                 
