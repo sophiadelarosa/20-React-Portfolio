@@ -40,4 +40,5 @@ h3 {
     content: "";
     display: table;
     clear: both;
+    margin: -30px;
 }
