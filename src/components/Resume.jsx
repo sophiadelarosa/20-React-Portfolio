@@ -37,8 +37,7 @@ function Resume() {
                 <div class="row">
                     <div class="leftcolumn">
                     <h3>KVUE News ABC, Austin</h3>
-                    <p><strong>Lead news editor</strong></p>
-                    <p>Nightbeat newscast</p>
+                    <p><strong>Lead news editor</strong> - Nightbeat newscast</p>
                     </div>
                     <div class="rightcolumn">
                         <p>-- 02/2018 to 04/2019 --</p>
@@ -48,8 +47,7 @@ function Resume() {
                 <div class="row">
                     <div class="leftcolumn">
                     <h3>CNN Atlanta</h3>
-                    <p><strong>Intern</strong></p>
-                    <p>Southeast Regional Bureau</p>
+                    <p><strong>Intern</strong>- Southeast Regional Bureau</p>
                     </div>
                     <div class="rightcolumn">
                         <p>-- 06/2017 to 07/2017 --</p>
@@ -62,29 +60,35 @@ function Resume() {
                         <p><strong>Photographer</strong></p>
                     </div>
                     <div class="rightcolumn">
-                        <p>-- 01/2016 to 05/2016</p>
+                        <p>-- 01/2016 to 05/2016 --</p>
                     </div>
                 </div>
 
                 <h1>EDUCATION</h1>
-                <h3>Texas State University</h3>
-                <p class="description">Bachelor of Science: Journalism</p>
-                <p class="description">Minor: International Studies</p>
-                <p class="description">GPA: 3.19</p>
-                <h3>Pellissippi State Community College</h3>
-                <p class="description">Dual-enrollment English 1310 and English 1320</p>
-                <h3>Grace Christian Academy</h3>
-                <p class="description">National Honor Society</p>
-                <p class="description">Yearbook staff Lead Photo Editor and Head Photojournalist</p>
-                <p class="description">AP classes: English, Studio Art</p>
 
                 <div class="row">
                     <div class="leftcolumn">
+                        <h3>Georgia Institute of Technology</h3>
+                        <p>Certified Full Stack web developer</p>
                     </div>
                     <div class="rightcolumn">
+                        <p>-- 04/2022 to 10/2022 --</p>
                     </div>
                 </div>
 
+                <div class="row">
+                    <div class="leftcolumn">
+                        <h3>Texas State University</h3>
+                        <p>Bachelor of Science: Journalism</p>
+                        <p>Minor: International Studies</p>
+                        <p>GPA: 3.19</p>
+                    </div>
+                    <div class="rightcolumn">
+                        <p>-- 08/2014 to 12/2017 --</p>
+                    </div>
+                </div>
+    
+    
                 <h1>TECHNICAL SKILLS</h1>
                 <p class="description">Georgia Tech certified full stack web developer</p>
                 <p class="description">Technologies: HTML, CSS, JavaScript, Bootstrap</p>
