@@ -8,10 +8,10 @@ function Work() {
                 <h1 class="title">Portfolio</h1>
             </div>
 
-            <a href="" target="_blank"><h2> Dungeons & Devs </h2></a>
+            <a href="https://www.dropbox.com/s/c4yrfb1pfmcqxel/finalproject.mp4?dl=0" target="_blank"><h2> Dungeons & Devs </h2></a>
             <div class="row">
                 <div class="leftcolumn">
-                    <img id="project3" height="500px" width="250px" />
+                    <img id="project3" height="500px" width="300px" />
                 </div>
                 <div class="rightcolumn">
                     <p> This is a pixel-style mobile game inspired by the game Dungeons & Dragons but with a developer twist. The objective is to battle and defeat a boss using code snippets. After three defeated bosses, the user can level up, unlock the next location and more advanced code snippets.</p>
