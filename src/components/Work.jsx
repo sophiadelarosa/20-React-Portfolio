@@ -8,6 +8,16 @@ function Work() {
                 <h1 class="title">Portfolio</h1>
             </div>
 
+            <a href="" target="_blank"><h2> Dungeons & Devs </h2></a>
+            <div class="row">
+                <div class="leftcolumn">
+                    <img id="project3" height="250px" width="500px" />
+                </div>
+                <div class="rightcolumn">
+                    <p> This is a pixel-style mobile game inspired by the game Dungeons & Dragons but with a developer twist. The objective is to battle and defeat a boss using code snippets. After three defeated bosses, the user can level up, unlock the next location and more advanced code snippets.</p>
+                    <a href="https://github.com/hackpres/DnDevs_React" target="_blank"><p> See the repository </p></a>
+                </div>
+            </div>
 
             <a href="https://www.dropbox.com/s/abnflpti6d2emjg/19-PWA-text-editor.mp4?dl=0" target="_blank"><h2> Progressive Web Applications: Text Editor </h2></a>
             <div class="row">
