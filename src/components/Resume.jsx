@@ -109,6 +109,7 @@ function Resume() {
                         <p>&#x2022; Server-side APIs</p>
                         <p>&#x2022; Node.js, command line applications</p>
                         <p>&#x2022; Object-oriented programming</p>
+                        <p>&#x2022; Object-relational mapping</p>
                         <p>&#x2022; JEST testing</p>
                         <p>&#x2022; Express.js</p>
                     </div>
