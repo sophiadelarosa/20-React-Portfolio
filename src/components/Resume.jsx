@@ -99,9 +99,10 @@ function Resume() {
                 <p>&#x2022; Detail oriented problem solving and debugging</p>
                 <p>&#x2022; Communication and leadership</p>
 
+                
+                <h1>TECHNICAL KNOWLEDGE</h1>
                 <div class="row">
                     <div class="leftcolumn">
-                        <h1>TECHNICAL KNOWLEDGE</h1>
                         <p>&#x2022; HTML, CSS, JavaScript</p>
                         <p>&#x2022; Web APIs</p>
                         <p>&#x2022; Third-party APIs</p>
