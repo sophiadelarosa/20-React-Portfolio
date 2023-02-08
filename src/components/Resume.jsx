@@ -120,7 +120,8 @@ function Resume() {
                         <p>&#x2022; Progressive Web Applications, webpack module bundler</p>
                         <p>&#x2022; Single-page Applications</p>
                         <p>&#x2022; MERN, queries and mutations</p>
-                        <p>&#x2022; Client-side routing with REACT router</p>
+                        <p>&#x2022; React</p>
+                        <p>&#x2022; Client-side routing with React router</p>
                         <p>&#x2022; State</p>
                     </div>
                 </div>

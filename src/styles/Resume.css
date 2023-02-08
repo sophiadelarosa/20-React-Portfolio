@@ -37,6 +37,7 @@ h3 {
 .rightcolumn {
     float: left;
     width: 50%;
+    padding-top: 20px;
 }
 
 .row:after {
