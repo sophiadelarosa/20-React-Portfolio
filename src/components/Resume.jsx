@@ -17,7 +17,7 @@ function Resume() {
                     <div class="leftcolumn">
                         <h3>Remote Workforce Strategy Team</h3>
                         <p><strong>Technology Team Lead</strong></p>
-                        <p>Connected with multiple CNN bureaus to discuss technological needs to sustain a continued hybrid work model. Established a technology knowledge datgabase to streamline training and 3ease transitions to new technologies.</p>
+                        <p>Connected with multiple CNN bureaus to discuss technological needs to sustain a continued hybrid work model. Established a technology knowledge database to streamline training and ease transitions to new technologies.</p>
                     </div>
                     <div class="rightcolumn">
                         <p>-- 01/2021 to 10/2021 --</p>
@@ -90,7 +90,7 @@ function Resume() {
                 </div>
     
     
-                <h1>TECHNICAL SKILLS</h1>
+                <h1>QUALIFICATIONS & SKILLS</h1>
                 <p>&#x2022; Georgia Tech certified full stack web developer</p>
                 <p>&#x2022; Bachelor of Science: Journalism</p>
                 <p>&#x2022; Adobe Suite</p>
@@ -98,6 +98,30 @@ function Resume() {
                 <p>&#x2022; PC building</p>
                 <p>&#x2022; Detail oriented problem solving and debugging</p>
                 <p>&#x2022; Communication and leadership</p>
+
+                <div class="row">
+                    <div class="leftcolumn">
+                        <h1>TECHNICAL KNOWLEDGE</h1>
+                        <p>&#x2022; HTML, CSS, JavaScript</p>
+                        <p>&#x2022; Web APIs</p>
+                        <p>&#x2022; Third-party APIs</p>
+                        <p>&#x2022; Server-side APIs</p>
+                        <p>&#x2022; Node.js, command line applications</p>
+                        <p>&#x2022; Object-oriented programming</p>
+                        <p>&#x2022; JEST testing</p>
+                        <p>&#x2022; Express.js</p>
+                    </div>
+                    <div class="right column">
+                        <p>&#x2022; MySQL, database schemas</p>
+                        <p>&#x2022; Model-View-Controller, Handlebars.js</p>
+                        <p>&#x2022; MongoDB</p>
+                        <p>&#x2022; Progressive Web Applications, webpack module bundler</p>
+                        <p>&#x2022; Single-page Applications</p>
+                        <p>&#x2022; MERN, queries and mutations</p>
+                        <p>&#x2022; Client-side routing with REACT router</p>
+                        <p>&#x2022; State</p>
+                    </div>
+                </div>
 
                 <h1>REFERENCES</h1>
                 <p><strong>Please download my CV above or contact me for a list of references</strong></p>
